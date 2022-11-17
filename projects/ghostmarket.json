@@ -1,0 +1,18 @@
+{
+  "name": "GhostMarket",
+  "slug": "ghostmarket",
+  "tags": ["nft", "marketplace"],
+  "status": "live",
+  "highlight": "Cross-chain NFT Marketplace.",
+  "logo": "/img/ghostmarket.png",
+  "website": "https://ghostmarket.io/",
+  "twitter": "https://twitter.com/ghostmarketio",
+  "telegram": "https://t.me/ghostmarketio",
+  "github": "https://github.com/OnBlockIO",
+  "discord": "https://discord.com/invite/THHTS4F",
+  "summary": "GhostMarket is a cross-chain NFT marketplace. Sell, Discover, Create and Buy Collectibles. Featuring ERC721/ERC1155 NFT, on-chain royalties, on-chain lock content, shopping/selling cart experiences and much more!",
+  "docs": "https://docs.ghostmarket.io",
+  "cmc": "https://coinmarketcap.com/currencies/ghostmarket/",
+  "date": "2021-07-01",
+  "token": "GM"
+}
